@@ -1,6 +1,7 @@
 # Blender 项目实战
 
-Ctrl + Shift + V 预览Markdown
+本项目使用 VS Code 编写。
+预览Markdown Ctrl + Shift + V 
 
 ## 学习目录
 
@@ -14,3 +15,7 @@ Ctrl + Shift + V 预览Markdown
 - 灯光
 - 合成器
 - 渲染器
+
+<br>
+
+## 实战项目
