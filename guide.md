@@ -25,8 +25,9 @@
 - 链接: [超链接显示名](超链接地址 "超链接title")
 - 可点击文本: 使用尖括号 <https://meng.com>
 - 强调 链接: 链接语法前后增加星号 **[Meng](https://meng.com)**
+- 或者+ https://github.com/
 - 图片: ![图片alt](图片链接 "图片title")
-[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+[![沙漠中的岩石图片](assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
 - 转义字符: 在字符前面添加反斜杠字符 \
 - 内嵌Html: 区块元素──比如 \<div>\<table>\<pre>\<p> 等标签，必须在前后加上空行  
 行级內联标签如 \<span>\<cite>\<del> 不受限制
@@ -52,3 +53,6 @@
 - Emoji: 以冒号开头和结尾，并包含表情符号的名称。
 去露营了！ :tent: 很快回来。
 真好笑！ :joy:
+
+[1]: http://weibo.com
+[2]: https://git.oschina.net
